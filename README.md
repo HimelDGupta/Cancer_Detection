@@ -34,4 +34,9 @@ melanoma-cancer-dataset/
    - Combined predictions from VGG16 and ResNet50 to improve the final performance.
 
 ## Results
-
+![Confusion Matrix by VGG16](Results/Screenshot 2024-03-20 200042.png)
+![Confusion Matrix by ResNET50](Results/Screenshot 2024-03-20 200102.png)
+![ResNET Performance](Results/Screenshot 2024-03-20 200018.png)
+![ResNET Loss](Results/Screenshot 2024-03-20 200018.png)
+![VGG 16 ROC Curve](Results/Screenshot 2024-03-20 200048.png)
+![ResNET ROC Curve](Results/Screenshot 2024-03-20 200111.png)
