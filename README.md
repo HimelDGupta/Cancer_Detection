@@ -35,37 +35,37 @@ melanoma-cancer-dataset/
 
 ## Results
 <p align="center">
-  <img src="Results/1.png" alt="Confusion Matrix by VGG16" width="400">
+  <img src="Results/7.png" alt="Confusion Matrix by VGG16" width="400">
   <br>
   <em>Figure 1: Confusion Matrix by VGG16</em>
 </p>
 
 <p align="center">
-  <img src="Results/2.png" alt="Confusion Matrix by ResNET50" width="400">
+  <img src="Results/8.png" alt="Confusion Matrix by ResNET50" width="400">
   <br>
   <em>Figure 2: Confusion Matrix by ResNET50</em>
 </p>
 
 <p align="center">
-  <img src="Results/3.png" alt="ResNET Performance" width="400">
+  <img src="Results/9.png" alt="ResNET Performance" width="400">
   <br>
   <em>Figure 3: ResNET Performance</em>
 </p>
 
 <p align="center">
-  <img src="Results/4.png" alt="ResNET Loss" width="400">
+  <img src="Results/10.png" alt="ResNET Loss" width="400">
   <br>
   <em>Figure 4: ResNET Loss</em>
 </p>
 
 <p align="center">
-  <img src="Results/5.png" alt="VGG 16 ROC Curve" width="400">
+  <img src="Results/11.png" alt="VGG 16 ROC Curve" width="400">
   <br>
   <em>Figure 5: VGG 16 ROC Curve</em>
 </p>
 
 <p align="center">
-  <img src="Results/6.png" alt="ResNET ROC Curve" width="400">
+  <img src="Results/12.png" alt="ResNET ROC Curve" width="400">
   <br>
   <em>Figure 6: ResNET ROC Curve</em>
 </p>
